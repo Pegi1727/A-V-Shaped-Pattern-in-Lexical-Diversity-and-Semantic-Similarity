@@ -5,6 +5,14 @@ This repository contains the official dataset, statistical analysis pipelines, a
 ---
 
 ## 📸 Key Figures
+# A V-Shaped Pattern in AI-Mediated Writing
+
+## Graphical Abstract
+![Graphical Abstract](figures/ga.png)
+
+## Overview
+This repository contains the data, figures, and supporting materials for the study on the V-shaped pattern in AI-mediated writing across three stages: Original Draft, GPT-4o Revision, and Author Refinement.
+
 
 ### Figure 1: Conceptual Model (Translingual Agency)
 ![Figure 1](figures/1.png)
