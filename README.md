@@ -3,8 +3,35 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21688237.svg)](https://doi.org/10.5281/zenodo.21688237)
 
+
+
 ### Executive Summary
-This study empirically validates the phenomenon of **"Algorithmic Native Speakerism."** Through the analysis of 30 scholars across 7 Global South countries, we demonstrate that generative AI tools impose a standardizing "funnel effect" on academic writing, eroding linguistic diversity. Our findings map a critical **V-shaped trajectory** in lexical diversity (MTLD), revealing the systemic patterns of linguistic homogenization and the subsequent potential for human-led reclamation.
+This study investigates the phenomenon of "Algorithmic Native Speakerism," demonstrating how Generative AI tools force the texts of multilingual scholars toward a standardized, homogeneous register. Our findings empirically validate a **V-shaped** behavioral pattern in lexical diversity (MTLD) metrics across three distinct authorial stages.
+
+---
+
+### Key Findings Summary
+Data derived from the analysis of 30 scholars across 7 Global South countries.
+
+| Stage | Mean MTLD Score | Key Characteristic |
+| :--- | :---: | :--- |
+| **Original Draft (OD)** | 72.64 | High linguistic diversity & authorial voice |
+| **AI-Revised (AIR)** | 54.50 | 25% decrease in diversity (Homogenization) |
+| **Author-Refined (AR)** | 64.97 | Successful authorial reclamation |
+
+*Statistical Significance: $F(2, 58) > 500, p < .001, \eta_p^2 > 0.94$*
+
+---
+
+### Research Figures
+The following visualizations detail the methodological pipeline and empirical outcomes of the study:
+
+*   **`fig1_methodology_pipeline.png`**: Research workflow and analytical pipeline.
+*   **`fig2_vshape_trajectories_core.png`**: V-shaped trend visualization with confidence intervals.
+*   **`fig3_sbert_semantic_landscape.png`**: Semantic alignment and landscape analysis.
+*   **`fig4_metric_correlations_reclamation.png`**: Metric correlation matrix during the reclamation phase.
+*   **`fig5_algorithmic_funnel_results.png`**: The "Algorithmic Funnel" model and homogenization dynamics.
+*   **`graphical_abstract.png`**: Comprehensive visual summary of the research study.
 
 ---
 
