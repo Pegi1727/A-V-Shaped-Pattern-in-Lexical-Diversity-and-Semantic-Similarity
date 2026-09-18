@@ -44,3 +44,5 @@ However, our findings offer a transformative counter-narrative: **Authorial Recl
 
 
 Merrikhi, Pegah. “Algorithmic Native Speakerism: V-Shaped Trajectories of Multilingual Authorial Reclamation.” 2026. Zenodo, https://doi.org/10.5281/zenodo.21688237.
+
+Pegah.Merrikhiii@gmail.com
